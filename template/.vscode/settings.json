@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "mcu_core.h": "c",
+        "gpio.h": "c",
+        "delay.h": "c",
+        "adc.h": "c",
+        "exti.h": "c",
+        "timer.h": "c",
+        "pwm.h": "c",
+        "wdg.h": "c",
+        "mcu_type.h": "c",
+        "mcu_config.h": "c"
+    }
+}

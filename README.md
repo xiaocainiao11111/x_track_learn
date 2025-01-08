@@ -8,5 +8,7 @@
 * 其它
   复位有问题，焊100nf试试
 
+ at32项目模版：template，新建工程，从绿色小饼干配置初始文件
+
 
   # CmBacktrace: ARM Cortex-M 系列 MCU 错误追踪库
