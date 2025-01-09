@@ -1,0 +1,14 @@
+.\objects\pngdec.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\PNGdec.cpp
+.\objects\pngdec.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\PNGdec.h
+.\objects\pngdec.o: ..\ArduinoAPI\Arduino.h
+.\objects\pngdec.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\pngdec.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\pngdec.o: .\Platform\Core\mcu_core.h
+.\objects\pngdec.o: .\Platform\Core\at32f435_437_clock.h
+.\objects\pngdec.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Include\at32f435_437.h
+.\objects\pngdec.o: .\RTE\_X-Track\RTE_Components.h
+.\objects\pngdec.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\pngdec.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pngdec.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\pngdec.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\pngdec.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

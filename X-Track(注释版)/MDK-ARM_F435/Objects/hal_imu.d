@@ -1,0 +1,16 @@
+.\objects\hal_imu.o: ..\USER\HAL\HAL_IMU.cpp
+.\objects\hal_imu.o: ..\USER\HAL\HAL.h
+.\objects\hal_imu.o: ..\USER\App/Common/HAL/HAL.h
+.\objects\hal_imu.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hal_imu.o: ..\USER\App/Common/HAL/HAL_Def.h
+.\objects\hal_imu.o: ..\ArduinoAPI\Arduino.h
+.\objects\hal_imu.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\hal_imu.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\hal_imu.o: .\Platform\Core\mcu_core.h
+.\objects\hal_imu.o: .\Platform\Core\at32f435_437_clock.h
+.\objects\hal_imu.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Include\at32f435_437.h
+.\objects\hal_imu.o: .\RTE\_X-Track\RTE_Components.h
+.\objects\hal_imu.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\hal_imu.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\hal_imu.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\hal_imu.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

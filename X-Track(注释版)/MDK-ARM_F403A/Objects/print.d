@@ -1,0 +1,14 @@
+.\objects\print.o: ..\ArduinoAPI\Print.cpp
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\print.o: ..\ArduinoAPI\Print.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\print.o: ..\ArduinoAPI\WString.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\print.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\print.o: ..\ArduinoAPI\avr/pgmspace.h
+.\objects\print.o: ..\ArduinoAPI\Printable.h
+.\objects\print.o: .\Platform\mcu_config.h

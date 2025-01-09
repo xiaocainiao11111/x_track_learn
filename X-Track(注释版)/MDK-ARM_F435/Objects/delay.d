@@ -1,0 +1,10 @@
+.\objects\delay.o: Platform\Core\delay.c
+.\objects\delay.o: Platform\Core\delay.h
+.\objects\delay.o: Platform\Core\mcu_type.h
+.\objects\delay.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Include\at32f435_437.h
+.\objects\delay.o: .\RTE\_X-Track\RTE_Components.h
+.\objects\delay.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\delay.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\delay.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\delay.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

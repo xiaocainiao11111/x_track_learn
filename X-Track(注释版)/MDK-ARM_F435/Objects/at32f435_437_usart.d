@@ -1,0 +1,10 @@
+.\objects\at32f435_437_usart.o: RTE/Device/-AT32F435CGU7/at32f435_437_usart.c
+.\objects\at32f435_437_usart.o: RTE/Device/-AT32F435CGU7/at32f435_437_conf.h
+.\objects\at32f435_437_usart.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Firmware\Peripherals\inc\at32f435_437_crm.h
+.\objects\at32f435_437_usart.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Include\at32f435_437.h
+.\objects\at32f435_437_usart.o: .\RTE\_X-Track\RTE_Components.h
+.\objects\at32f435_437_usart.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\at32f435_437_usart.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\at32f435_437_usart.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\at32f435_437_usart.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\at32f435_437_usart.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

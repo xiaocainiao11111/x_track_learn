@@ -1,0 +1,16 @@
+.\objects\buttonevent.o: ..\Libraries\ButtonEvent\ButtonEvent.cpp
+.\objects\buttonevent.o: ..\Libraries\ButtonEvent\ButtonEvent.h
+.\objects\buttonevent.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\buttonevent.o: ..\Libraries\ButtonEvent\EventType.inc
+.\objects\buttonevent.o: ..\Libraries\ButtonEvent\EventType.inc
+.\objects\buttonevent.o: ..\ArduinoAPI\Arduino.h
+.\objects\buttonevent.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\buttonevent.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\buttonevent.o: .\Platform\Core\mcu_core.h
+.\objects\buttonevent.o: .\Platform\Core\at32f435_437_clock.h
+.\objects\buttonevent.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Include\at32f435_437.h
+.\objects\buttonevent.o: .\RTE\_X-Track\RTE_Components.h
+.\objects\buttonevent.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\buttonevent.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\buttonevent.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\buttonevent.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

@@ -1,0 +1,12 @@
+.\objects\inffast.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\inffast.c
+.\objects\inffast.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\zutil.h
+.\objects\inffast.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\zlib.h
+.\objects\inffast.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\zconf.h
+.\objects\inffast.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\inffast.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\inffast.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\inffast.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\string.h
+.\objects\inffast.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\inffast.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\inftrees.h
+.\objects\inffast.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\inflate.h
+.\objects\inffast.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\inffast.h

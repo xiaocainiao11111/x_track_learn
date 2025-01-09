@@ -1,0 +1,15 @@
+.\objects\wire.o: ..\ArduinoAPI\Wire.cpp
+.\objects\wire.o: ..\ArduinoAPI\Wire.h
+.\objects\wire.o: ..\ArduinoAPI\WireBase.h
+.\objects\wire.o: ..\ArduinoAPI\Arduino.h
+.\objects\wire.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\wire.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\wire.o: .\Platform\Core\mcu_core.h
+.\objects\wire.o: .\Platform\Core\at32f435_437_clock.h
+.\objects\wire.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Include\at32f435_437.h
+.\objects\wire.o: .\RTE\_X-Track\RTE_Components.h
+.\objects\wire.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\wire.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\wire.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\wire.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\wire.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

@@ -1,0 +1,10 @@
+.\objects\crc32.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\crc32.c
+.\objects\crc32.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\zutil.h
+.\objects\crc32.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\zlib.h
+.\objects\crc32.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\zconf.h
+.\objects\crc32.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\crc32.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\crc32.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\crc32.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\string.h
+.\objects\crc32.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\crc32.o: ..\USER\App\Utils\lv_img_png\PNGdec\src\crc32.h

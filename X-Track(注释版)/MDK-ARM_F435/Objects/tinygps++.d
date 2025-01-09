@@ -1,0 +1,15 @@
+.\objects\tinygps++.o: ..\Libraries\TinyGPSPlus\src\TinyGPS++.cpp
+.\objects\tinygps++.o: ..\Libraries\TinyGPSPlus\src\TinyGPS++.h
+.\objects\tinygps++.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\tinygps++.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tinygps++.o: ..\ArduinoAPI\Arduino.h
+.\objects\tinygps++.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\tinygps++.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\tinygps++.o: .\Platform\Core\mcu_core.h
+.\objects\tinygps++.o: .\Platform\Core\at32f435_437_clock.h
+.\objects\tinygps++.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Include\at32f435_437.h
+.\objects\tinygps++.o: .\RTE\_X-Track\RTE_Components.h
+.\objects\tinygps++.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\tinygps++.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\tinygps++.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\tinygps++.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

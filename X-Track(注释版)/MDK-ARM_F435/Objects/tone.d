@@ -1,0 +1,12 @@
+.\objects\tone.o: Platform\Core\Tone.cpp
+.\objects\tone.o: Platform\Core\Tone.h
+.\objects\tone.o: Platform\Core\timer.h
+.\objects\tone.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\tone.o: Platform\Core\mcu_type.h
+.\objects\tone.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Include\at32f435_437.h
+.\objects\tone.o: .\RTE\_X-Track\RTE_Components.h
+.\objects\tone.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\tone.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tone.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\tone.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\tone.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

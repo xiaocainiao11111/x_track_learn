@@ -1,0 +1,17 @@
+.\objects\rt_sys.o: ..\USER\HAL\rt_sys.cpp
+.\objects\rt_sys.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\rt_sys.h
+.\objects\rt_sys.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rt_sys.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\rt_sys.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\time.h
+.\objects\rt_sys.o: ..\Libraries\SdFat\src\SdFat.h
+.\objects\rt_sys.o: ..\Libraries\SdFat\src\SysCall.h
+.\objects\rt_sys.o: ..\ArduinoAPI\Arduino.h
+.\objects\rt_sys.o: D:\keil_5_4_0\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\rt_sys.o: .\Platform\Core\mcu_core.h
+.\objects\rt_sys.o: .\Platform\Core\at32f435_437_clock.h
+.\objects\rt_sys.o: D:\keil_5_4_0\ArteryTek\AT32F435_437_DFP\2.0.6\Device\Include\at32f435_437.h
+.\objects\rt_sys.o: .\RTE\_X-Track\RTE_Components.h
+.\objects\rt_sys.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\rt_sys.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\rt_sys.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\rt_sys.o: D:\keil_5_4_0\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

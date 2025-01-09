@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.inc": "cpp",
+        "i2c.h": "c",
+        "mcu_type.h": "c",
+        "at32f4xx_conf.h": "c",
+        "mcu_config.h": "c",
+        "gpio.h": "c",
+        "timer.h": "c",
+        "at32f4xx.h": "c",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "typeinfo": "cpp",
+        "mcu_core.h": "c",
+        "pingpongbuffer.h": "c"
+    }
+}
