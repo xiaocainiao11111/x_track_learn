@@ -1,9 +1,10 @@
 #include "HAL.h"
 #include "Wire.h"
 
+// 寻找iic设备
 int HAL::I2C_Scan()
 {
-    if(!Wire.begin())
+    if (!Wire.begin())
     {
         Serial.println("I2C: init failed");
         return -1;
@@ -15,7 +16,7 @@ int HAL::I2C_Scan()
     Serial.println("I2C: device scanning...");
 
     nDevices = 0;
-    for (address = 1; address < 127; address++ )
+    for (address = 1; address < 127; address++)
     {
         // The i2c_scanner uses the return value of
         // the Write.endTransmisstion to see if
